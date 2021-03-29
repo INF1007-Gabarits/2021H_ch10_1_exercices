@@ -21,6 +21,6 @@ Compléter les quelques exercices suivants en modifiant le code de [exercice.py]
 
 ![alt text](./assets/img.png)
 
-**Rappel mathématique**: Le rayon d'un cercle est pi. L'aire d'un demi cercle est pi/4.
+**Rappel mathématique**: L'aire d'un quart de cercle est pi/4.
 
 6. Évaluer l’intégrale ![alt text](./assets/eq2.gif). Afficher dans un graphique ![alt text](./assets/eq3.gif) pour x = [-4, 4].
